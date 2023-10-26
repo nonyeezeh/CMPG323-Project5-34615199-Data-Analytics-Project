@@ -6,7 +6,7 @@ This readme provides an overview and essential information about the existing Po
 
 ## Table of Contents
 - [Overview](#overview)
-- [Project Objectives](#project-objectives)
+- [Objectives](#objectives)
 - [Access](#access)
 - [References](#references)
 
