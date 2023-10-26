@@ -1,6 +1,6 @@
 # CMPG323-Project5-34615199
 
-Locate the project on Power BI via this link
+Locate the project on Power BI via this [link](https://app.powerbi.com/links/gMmjtRdytz?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare&bookmarkGuid=e29a5db6-95cb-469f-a8b3-1e8385ba6182)
 
 This readme provides an overview and essential information about the existing Power BI dashboard, which is already built and utilizes data from the "Products," "Customers," "Orders," and "Order Details" tables. This dashboard is designed to empower our stakeholders with valuable insights into our logistics operations.
 
