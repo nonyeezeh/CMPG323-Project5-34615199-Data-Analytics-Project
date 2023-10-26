@@ -2,6 +2,47 @@
 
 Locate the project on Power BI via this link
 
+This readme provides an overview and essential information about the existing Power BI dashboard, which is already built and utilizes data from the "Products," "Customers," "Orders," and "Order Details" tables. This dashboard is designed to empower our stakeholders with valuable insights into our logistics operations.
+
+## Table of Contents
+- [Overview](#overview)
+- [Project Objectives](#project-objectives)
+- [Access](#access)
+- [References](#references)
+
+## Overview
+
+The EcoPower Logistics Power BI dashboard has been created to provide a comprehensive view of our logistics operations. It leverages data from the following key tables:
+
+- **Products**: Information about products, including descriptions, pricing, and stock levels.
+- **Customers**: Details about customers, including contact information and demographics.
+- **Orders**: Information related to customer orders, including order dates.
+- **Order Details**: Data about the products within each order, including quantities, pricing and discounts.
+
+The dashboard offers a dynamic and interactive interface for monitoring various aspects of our logistics, including order status, product sales, customer information, and inventory management. It is designed to facilitate informed decision-making and enhance the logistics processes.
+
+## Objectives
+
+The primary objectives of this Power BI dashboard project are as follows:
+
+- Provide a centralized platform for stakeholders to monitor and analyze logistics data.
+- Enable stakeholders to gain insights into order status, product sales, and customer information.
+- Promote data-driven decision-making for improved logistics management.
+
+## Access
+
+Accessing the EcoPower Logistics Power BI dashboard is simple. Click the link above and follow these steps to explore and interact with the dashboard:
+
+1. **Access Link**: An access link or URL that leads you to the Power BI dashboard had been provided above.
+
+2. **Access Permissions**: Ensure you have the necessary permissions to access the Power BI dashboard.
+
+3. **Login (If Required)**: If the dashboard is protected, you may need to log in using your organization's credentials.
+
+4. **Explore the Dashboard**: Once logged in, you can explore the dashboard's various visualizations, filters, and interactive features. The dashboard is designed for intuitive navigation.
+
+5. **Data Insights**: Utilize the dashboard to gain insights into customer orders, order status, product sales, and other logistics-related information. You can adjust filters, interact with charts, and drill down into specific data points for a deeper understanding.
+
 # References
 - JJ Power BI. 2022. https://www.youtube.com/watch?v=APj3MFt2w5I&ab_channel=JJPowerBI Date of access: 25 Oct. 2023.
 - https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/344239. 2022. How to connect API to power-bi, can any one suggest me sample API to connect with power-bi. Microsoft.com. https://community.fabric.microsoft.com/t5/Desktop/How-to-connect-API-to-power-bi-can-any-one-suggest-me-sample-API/td-p/2391576#:~:text=You%20must%20enter%20the%20URL,advance%20option%20if%20you%20need. Date of access: 25 Oct. 2023.
