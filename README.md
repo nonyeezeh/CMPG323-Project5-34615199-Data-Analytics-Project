@@ -34,18 +34,22 @@ The primary objectives of this Power BI dashboard project are as follows:
 
 ### High-Level Metrics
 This page displays important information which might be useful to higher-level stakeholders.
+
 ![High Level Metrics](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/54dd827b-06c9-4a15-a1e9-61a517322866)
 
 ### Order Monitoring
 On this page, the user will find information about metrics such as the total orders and orders per product.
+
 ![Order Monitoring](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/c9202805-06b5-46d2-8b69-6a568eef4fbf)
 
 ### Product Monitoring
 This page includes metrics such as products in stock, discounts offered to customers per product, and average price of each item.
+
 ![Product Monitoring](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/c2084cd9-05f2-4158-a902-592943de3d6d)
 
 ### Customer Monitoring
 Finally, the user is able to see additional information about the user such as total orders to each order address, quantity ordered by age, and gender.
+
 ![Customer Monitoring](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/9edde9a2-5e7d-42f8-9a4e-dc454d6120d3)
 
 ## Access
