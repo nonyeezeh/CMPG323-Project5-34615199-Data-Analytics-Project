@@ -7,6 +7,7 @@ This readme provides an overview and essential information about the existing Po
 ## Table of Contents
 - [Overview](#overview)
 - [Objectives](#objectives)
+- [Pages](#pages)
 - [Access](#access)
 - [References](#references)
 
@@ -29,6 +30,24 @@ The primary objectives of this Power BI dashboard project are as follows:
 - Enable stakeholders to gain insights into order status, product sales, and customer information.
 - Promote data-driven decision-making for improved logistics management.
 
+## Pages
+
+### High-Level Metrics
+This page displays important information which might be useful to higher-level stakeholders.
+![High Level Metrics](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/54dd827b-06c9-4a15-a1e9-61a517322866)
+
+### Order Monitoring
+On this page, the user will find information about metrics such as the total orders and orders per product.
+![Order Monitoring](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/c9202805-06b5-46d2-8b69-6a568eef4fbf)
+
+### Product Monitoring
+This page includes metrics such as products in stock, discounts offered to customers per product, and average price of each item.
+![Product Monitoring](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/c2084cd9-05f2-4158-a902-592943de3d6d)
+
+### Customer Monitoring
+Finally, the user is able to see additional information about the user such as total orders to each order address, quantity ordered by age, and gender.
+![Customer Monitoring](https://github.com/nonyeezeh/CMPG323-Project5-34615199/assets/84854124/9edde9a2-5e7d-42f8-9a4e-dc454d6120d3)
+
 ## Access
 
 Accessing the EcoPower Logistics Power BI dashboard is simple. Click the link above and follow these steps to explore and interact with the dashboard:
@@ -37,11 +56,9 @@ Accessing the EcoPower Logistics Power BI dashboard is simple. Click the link ab
 
 2. **Access Permissions**: Ensure you have the necessary permissions to access the Power BI dashboard.
 
-3. **Login (If Required)**: If the dashboard is protected, you may need to log in using your organization's credentials.
+3. **Explore the Dashboard**: Once logged in, you can explore the dashboard's various visualizations, filters, and interactive features. The dashboard is designed for intuitive navigation.
 
-4. **Explore the Dashboard**: Once logged in, you can explore the dashboard's various visualizations, filters, and interactive features. The dashboard is designed for intuitive navigation.
-
-5. **Data Insights**: Utilize the dashboard to gain insights into customer orders, order status, product sales, and other logistics-related information. You can adjust filters, interact with charts, and drill down into specific data points for a deeper understanding.
+4. **Data Insights**: Utilize the dashboard to gain insights into customer orders, order status, product sales, and other logistics-related information. You can adjust filters, interact with charts, and drill down into specific data points for a deeper understanding.
 
 # References
 - JJ Power BI. 2022. https://www.youtube.com/watch?v=APj3MFt2w5I&ab_channel=JJPowerBI Date of access: 25 Oct. 2023.
